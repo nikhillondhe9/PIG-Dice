@@ -10,7 +10,7 @@ GAME RULES:
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game **
 
-How to run the code:
+## How to run the code:
 You will simply need a web-browser like chrome(preferred), firefox, safari, etc.
 
 Clone the repository on your local machine.
@@ -23,11 +23,11 @@ You should be able to a new webpage with the game UI.
 
 Enter the winning score in the prompt and follow the instructions.
 
-Google Chrome Version (Recommended Browser)
+## Google Chrome Version (Recommended Browser)
 The application was successfully run on google chrome v 67.0.3396.87
 
-Brackets Version
+## Brackets Version
 The code was developed on Brackets IDE Edition V1.13.0.
 
-JavaScript Version
+## JavaScript Version
 ECMAScript 5.
